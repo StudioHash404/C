@@ -1,8 +1,3 @@
----
-
-## 🧩 C – `README.md`
-
-```markdown
 <h1 align="center">🧠 Projetos em C</h1>
 <h3 align="center">Códigos simples.</h3>
 
@@ -13,13 +8,14 @@
 
 ## 🧭 Sobre este repositório
 
-Reúne meus primeiros códigos em C — pequenos programas focados na lógica, laços e estruturas básicas da linguagem.
-
----
+Repositório com meus primeiros códigos em **C** — pequenos programas voltados para prática de lógica, uso de `if`, `while`, `for` e manipulação básica de dados.
 
 ## ⚙️ Como compilar e rodar
 
-1. Instale o GCC ou outro compilador C.
-2. Clone o repositório:
+1. Instale o GCC (compilador C):
+   - Linux/macOS: `sudo apt install gcc` ou `brew install gcc`
+   - Windows: use o [MinGW](http://www.mingw.org/)
+
+2. Clone este repositório:
    ```bash
    git clone https://github.com/StudioHash404/C.git
