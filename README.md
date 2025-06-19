@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Status-Aprendizado%20em%20andamento-yellow" />
 </p>
 
----
-
 ## 🧭 Sobre este repositório
 
 Reúne meus primeiros códigos em C — pequenos programas focados na lógica, laços e estruturas básicas da linguagem.
