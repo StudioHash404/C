@@ -14,7 +14,6 @@ Repositório com meus primeiros códigos em **C** — pequenos programas voltado
 
 1. Instale o GCC (compilador C):
    - Linux/macOS: `sudo apt install gcc` ou `brew install gcc`
-   - Windows: use o [MinGW](http://www.mingw.org/)
 
 2. Clone este repositório:
    ```bash
